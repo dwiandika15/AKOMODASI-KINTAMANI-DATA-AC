@@ -1,0 +1,11 @@
+{
+    "sumber_data": "OpenStreetMap",
+    "endpoint": "https://overpass-api.de/api/interpreter",
+    "waktu_akuisisi_utc": "2026-11-11T11:36:43.927003+00:00",
+    "jumlah_data": 32,
+    "file_raw": "data/raw/osm_akomodasi_kintamani_20261111_092507.json",
+    "md5": "176d35ca2b901bff6fb5749c70f42718",
+    "lisensi": "Open Database License (ODbL)",
+    "atribusi": "\u00a9 OpenStreetMap contributors",
+    "metode": "Overpass API"
+}
