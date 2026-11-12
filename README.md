@@ -101,6 +101,7 @@ terbuka agar hasil akuisisi lebih dapat dipercaya.
 | 4 | `docs/data_dictionary.csv` | Keterangan kolom dataset |
 | 5 | `docs/data_ethics_checklist.csv` | Checklist etika akuisisi |
 | 6 | `docs/perbandingan_bps.csv` | Perbandingan jumlah OSM dan BPS |
+
 Sumber: OpenStreetMap melalui Overpass API; Badan Pusat Statistik Kabupaten Bangli, Kecamatan Kintamani Dalam
 Angka 2023; Direktori Pariwisata Provinsi Bali 2023; dan website resmi Villa Jempana. Atribusi data OSM: ©
 OpenStreetMap contributors.
