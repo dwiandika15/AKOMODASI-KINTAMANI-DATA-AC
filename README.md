@@ -7,7 +7,7 @@ Praktikum ini bertujuan memperoleh data akomodasi di Kecamatan Kintamani dari Op
 data mentah, mengubahnya menjadi tabel CSV, serta memeriksa kualitas dan kelengkapan data. Data OSM merupakan
 data yang dihimpun oleh kontributor sehingga kelengkapan dan ketepatan atribut dapat berbeda-beda.
 
-# . Metode Akuisisi Data 
+# 2. Metode Akuisisi Data 
 Pengambilan data dilakukan menggunakan Overpass API dengan area administratif Kintamani dan filter tag tourism untuk kategori hotel, guest_house, hostel, motel, apartment, dan chalet. Respons API disimpan dalam format JSON sebagai data mentah, kemudian diratakan menjadi tabel menggunakan Python dan pandas. Data hasil perataan disimpan dalam format CSV. Endpoint yang digunakan: https://overpass-api.de/api/interpreter. Pengambilan data dilakukan pada 11 November 2026. File mentah disimpan dengan nama osm_akomodasi_kintamani_20261111_092507.json.
 
 # 3. Hasil Akuisisi Data
